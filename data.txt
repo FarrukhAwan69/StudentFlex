@@ -1,0 +1,40 @@
+Code: 01
+Name: PF
+Instructor: Miss.Hira Ilyas
+Credits: 4
+$
+Code: 02
+Name: LA
+Instructor: Sir.Akhlaq Bhatti
+Credits: 3
+$
+Code: 03
+Name: OOP
+Instructor: Miss.Saira Karim
+Credits: 4
+$
+Code: 04
+Name: COAL
+Instructor: Miss.Samin Ifthikar
+Credits: 4
+$
+Code: 05
+Name: DSA
+Instructor: Miss.Zareen Alamgir
+Credits: 4
+$
+Name: taha abdulah
+Roll number: 22l-6566
+Age: 18
+CourseName: PF LA OOP COAL DSA
+Attendence: 90 89 45 56 45
+Marks: 79 89 34 45 56
+$
+Name: Muhamamd Usman
+Roll number: 22l-6873
+Age: 19
+CourseName: PF LA OOP COAL DSA
+Attendence: 90 90 34 90 34
+Marks: 100 100 100 100 100
+$
+&
